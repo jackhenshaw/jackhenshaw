@@ -23,7 +23,7 @@
 - 💻 Looking to start working on some side projects to really develop a public coding portfolio
 - 💬 Feel free to ask me about anything, I am happy to help;
 
-**languages and tools:** 
+**languages and tools:** <br>
 <code><img height="20" src="https://raw.githubusercontent.com/jackhenshaw/jackhenshaw/main/images/vim-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/jackhenshaw/jackhenshaw/main/images/linux-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/jackhenshaw/jackhenshaw/main/images/cplusplus-original.svg"></code>
