@@ -15,26 +15,26 @@
 
 
 <p align="left">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I'm Jack Henshaw, a PhD researcher in Particle Physics at the University of Birmingham. 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I'm Jack Henshaw, a PhD researcher in Particle Physics at the University of Birmingham. I currently code mostly in c++ but am also looking to develop my python skills further.
 </p>
 
-  
+**What I Do:**
 - 🔒 Most of my time is spent working on, and with, a private framework for the experiement I work on (NA62)
 - 💻 Looking to start working on some side projects to really develop a public coding portfolio
 - 💬 Feel free to ask me about anything, I am happy to help;
 
-**languages and tools:** <br>
-<code><img height="20" src="https://raw.githubusercontent.com/jackhenshaw/jackhenshaw/main/images/vim-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/jackhenshaw/jackhenshaw/main/images/linux-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/jackhenshaw/jackhenshaw/main/images/cplusplus-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/jackhenshaw/jackhenshaw/main/images/git-original-wordmark.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/jackhenshaw/jackhenshaw/main/images/python-original-wordmark.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/jackhenshaw/jackhenshaw/main/images/jupyter-original-wordmark.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/jackhenshaw/jackhenshaw/main/images/pandas-original-wordmark.svg"></code>
+**languages and tools:** <br> <br>
+<img height="50" src="https://raw.githubusercontent.com/jackhenshaw/jackhenshaw/main/images/vim-original.svg">
+<img height="50" src="https://raw.githubusercontent.com/jackhenshaw/jackhenshaw/main/images/linux-original.svg">
+<img height="50" src="https://raw.githubusercontent.com/jackhenshaw/jackhenshaw/main/images/cplusplus-original.svg">
+<img height="50" src="https://raw.githubusercontent.com/jackhenshaw/jackhenshaw/main/images/git-original-wordmark.svg">
+<img height="50" src="https://raw.githubusercontent.com/jackhenshaw/jackhenshaw/main/images/python-original-wordmark.svg">
+<img height="50" src="https://raw.githubusercontent.com/jackhenshaw/jackhenshaw/main/images/jupyter-original-wordmark.svg">
+<img height="50" src="https://raw.githubusercontent.com/jackhenshaw/jackhenshaw/main/images/pandas-original-wordmark.svg">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/jackhenshaw/github-readme-stats">
   <img align="left" alt="Langugages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackhenshaw&layout=compact&theme=gruvbox"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/jackhenshaw/convoychat">
   <img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=jackhenshaw&count_private=true&theme=gruvbox&repo=convoychat"/>
 </a>
