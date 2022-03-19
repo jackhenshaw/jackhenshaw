@@ -33,7 +33,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/jackhenshaw/jackhenshaw/main/images/pandas-original-wordmark.svg"></code>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" alt="Langugages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackhenshaw&layout=compact&theme=gruvbox" width="450"/>
+  <img align="left" alt="Langugages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackhenshaw&layout=compact&theme=gruvbox"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=jackhenshaw&count_private=true&theme=gruvbox&repo=convoychat"/>
