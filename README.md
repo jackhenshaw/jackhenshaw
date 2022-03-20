@@ -37,4 +37,4 @@
   <img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=jackhenshaw&count_private=true&theme=gruvbox&repo=convoychat" width="500"/>
 </a>
 
-[![Jack's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jackhenshaw)](https://github.com/jackhenshaw/github-readme-stats)
+[![Jack's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jackhenshaw&theme=gruvbox)](https://github.com/jackhenshaw/github-readme-stats)
