@@ -33,8 +33,10 @@
 <img height="50" src="https://raw.githubusercontent.com/jackhenshaw/jackhenshaw/main/images/pandas-original-wordmark.svg">
 
 <a href="https://github.com/jackhenshaw/github-readme-stats">
-  <img align="left" alt="Langugages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackhenshaw&layout=compact&theme=gruvbox"/>
+  <img align="left" alt="Langugages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackhenshaw&layout=compact&theme=gruvbox" width="305"/>
 </a>
 <a href="https://github.com/jackhenshaw/convoychat">
-  <img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=jackhenshaw&count_private=true&theme=gruvbox&repo=convoychat"/>
+  <img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=jackhenshaw&count_private=true&theme=gruvbox&repo=convoychat" width="500"/>
 </a>
+
+[![Jack's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jackhenshaw)](https://github.com/jackhenshaw/github-readme-stats)
