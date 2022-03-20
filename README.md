@@ -10,9 +10,7 @@
 
 <br />
 
-<img align="right" alt="GIF"   src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
-
-
+<img align="right" alt="GIF"   src="https://raw.githubusercontent.com/jackhenshaw/jackhenshaw/main/images/code.gif?raw=true" width="500" height="320"/>
 
 <p align="left">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I'm Jack Henshaw, a PhD researcher in Particle Physics at the University of Birmingham. I currently code mostly in c++ but am also looking to develop my python skills further.
