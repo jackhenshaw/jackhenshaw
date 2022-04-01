@@ -7,7 +7,7 @@
 <a href="https://open.spotify.com/user/1131614634?si=U-_gWyJpRfiEBq6z6qyo3A&utm_source=copy-link">
   <img align="left" alt="Jack's Spotify" width="22px" src="https://raw.githubusercontent.com/jackhenshaw/jackhenshaw/main/images/spotify.svg" />
 </a>
-<a href="https://www.strava.com/athletes/78410163">
+<a href="https://www.strava.com/athletes/jackhenshaw">
   <img align="left" alt="Jack's Strava" width="22px" src="https://raw.githubusercontent.com/jackhenshaw/jackhenshaw/main/images/strava.svg" />
 </a>
 
