@@ -43,5 +43,3 @@
 <p align="center">
   <img alt="Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=jackhenshaw&theme=gruvbox"/>
 </p>
-
-<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/78410163/activity-summary/e00d67d49e4f20efbfe1ad3995f287688e523235'></iframe>
