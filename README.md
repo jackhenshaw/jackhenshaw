@@ -25,9 +25,10 @@
 </p>
 
 **What I Do:**
-- 🔒 Most of my time is spent working on, and with, a private framework for the experiement I work on (NA62)
+- 🔒 Most of my time was spent working on, and with, a private framework for the experiement I work on (NA62)
+- ✍️ Currently writing up my PhD thesis
 - 💻 Looking to start working on some side projects to really develop a public coding portfolio
-- 💬 Feel free to ask me about anything, I am happy to help;
+
 
 <br>
 
