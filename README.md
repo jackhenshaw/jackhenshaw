@@ -36,14 +36,7 @@ Hi there!
 
 ### 🧰 Languages & Tools
 
-<img align="left" width="50px" title="Python" alt="Python" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
-<img align="left" width="50px" title="Jupyter-Notebook" alt="Jupyter-Notebook" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-<img align="left" width="50px" title="Pandas" alt="Pandas" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
-<img align="left" width="50px" title="Vim" alt="Vim" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
-<img align="left" width="50px" title="Linux" alt="Linux" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-<img align="left" width="50px" title="C++" alt="C++" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-<img align="left" width="50px" title="Git" alt="Git" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
-<img align="left" width="50px" title="LaTeX" alt="LaTeX" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,cpp,git,githubactions,vim,linux,latex,bash)](https://skillicons.dev)
 
 <br><br>
 
