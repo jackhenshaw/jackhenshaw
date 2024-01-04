@@ -36,7 +36,7 @@ Hi there!
 
 ### 🧰 Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,cpp,git,githubactions,vim,linux,latex,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,aws,cpp,git,githubactions,vim,linux,latex,bash)](https://skillicons.dev)
 
 <br><br>
 
