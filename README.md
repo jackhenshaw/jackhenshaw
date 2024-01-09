@@ -30,6 +30,8 @@ Hi there!
 - 💻 Skilled in python and c++
 - 🎓 PhD in Particle Physics
 - 📫 Reach me through Linkedin
+- 🏦 Currently working on a data science project in estimating someones credit score bracket
+- 📚 Plan to do an introduction to SQL course soon
 <br>
 
 ---
