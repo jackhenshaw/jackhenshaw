@@ -30,8 +30,8 @@ Hi there!
 - 💻 Skilled in python and c++
 - 🎓 PhD in Particle Physics
 - 📫 Reach me through Linkedin
-- 🏦 Currently working on a data science project in estimating someones credit score bracket
-- 📚 Plan to do an introduction to SQL course soon
+- 🏦 Recently finished a data science project estimating someones credit score bracket with an accuracy of 87.6%
+- 📚 Currently working on an SQL course
 <br>
 
 ---
