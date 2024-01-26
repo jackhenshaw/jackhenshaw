@@ -30,17 +30,14 @@ Hi there!
 - 💻 Skilled in python and c++
 - 🎓 PhD in Particle Physics
 - 📫 Reach me through Linkedin
-- 🏦 Recently finished a data science project estimating someones credit score bracket with an accuracy of 87.6%
-- 📚 Currently working on an SQL course
-<br>
+- 🏦 Check out my latest data science project estimating someones credit score bracket with an accuracy of 87.6% [here](https://github.com/jackhenshaw/creditScore)
+- 📚 Just finished an SQL course on LinkedIn Learning and looking forward to applying my newly acquired skills! 
 
 ---
 
 ### 🧰 Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,aws,cpp,git,githubactions,vim,linux,latex,bash)](https://skillicons.dev)
-
-<br><br>
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,aws,cpp,git,githubactions,vim,linux,latex,bash,postgres)](https://skillicons.dev)
 
 ---
 
