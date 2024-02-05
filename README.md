@@ -30,8 +30,10 @@ Hi there!
 - 💻 Skilled in python and c++
 - 🎓 PhD in Particle Physics
 - 📫 Reach me through Linkedin
-- 🏦 Check out my latest data science project estimating someones credit score bracket with an accuracy of 87.6% [here](https://github.com/jackhenshaw/creditScore)
-- 📚 Just finished an SQL course on LinkedIn Learning and looking forward to applying my newly acquired skills! 
+- 🏦 Check out my recent data science projects
+  - estimating credit score bracket with an accuracy of 87.6% [here](https://github.com/jackhenshaw/creditScore)
+  - Segmentation of customers regarding financial products [here](https://github.com/jackhenshaw/marketSegmentation) 
+- 📚 Looking into doing a tableau course on LinkedIn learning to complement my data science skills.
 
 ---
 
