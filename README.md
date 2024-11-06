@@ -17,25 +17,21 @@
 <img align="right" alt="GIF" style="object-fit: cover" src="https://raw.githubusercontent.com/jackhenshaw/jackhenshaw/main/images/code.gif?raw=true" width="500" height="320"/>
 
 **What I Do:**
-- 📈 Looking for jobs in data science
-- 💻 Skilled in python and c++
+- 📈 Consultant data scientist @ Aiimi
+- 💻 Skilled in python, c++, and SQL
 - 🎓 PhD in Particle Physics
 - 📫 Reach me through Linkedin
-- 🏦 Check out my recent data science projects
-  - estimating credit score bracket with an accuracy of 87.6% [here](https://github.com/jackhenshaw/creditScore)
-  - Segmentation of customers regarding financial products [here](https://github.com/jackhenshaw/marketSegmentation) 
-- 📚 Looking into doing a tableau course on LinkedIn learning to complement my data science skills.
-
-
-<br clear="left"/>
+- 📚 Microsoft Certified: Azure Data Scientist Associate (DP-100)
 
 ---
 
 ### 🧰 Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,aws,cpp,git,githubactions,vim,linux,latex,bash,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,azure,cpp,git,githubactions,vim,linux,latex,bash,postgres)](https://skillicons.dev)
 
 ---
+
+<br clear="left"/>
 
 ### 📊 Stats
 
