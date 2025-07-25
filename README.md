@@ -17,11 +17,11 @@
 <img align="right" alt="GIF" style="object-fit: cover" src="https://raw.githubusercontent.com/jackhenshaw/jackhenshaw/main/images/code.gif?raw=true" width="500" height="320"/>
 
 **What I Do:**
-- 📈 Consultant data scientist @ Aiimi
-- 💻 Skilled in python, c++, and SQL
-- 🎓 PhD in Particle Physics
-- 📫 Reach me through Linkedin
-- 📚 Microsoft Certified: Azure Data Scientist Associate (DP-100)
+* 📈 Consultant data scientist @ Aiimi
+* 📚 Microsoft Certified: Azure Data Scientist Associate (DP-100)
+* 🎓 **PhD in Particle Physics** - Leveraging strong analytical, statistical modelling, and problem-solving skills
+* 💻 **Proficient in:** Python (Pandas, Scikit-learn, TensorFlow/PyTorch), SQL, C++, and cloud platforms.
+* 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/).
 
 ---
 
